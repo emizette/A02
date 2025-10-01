@@ -1,6 +1,6 @@
 # A02
 
-# Part 1: Directions on Using GitHub
+## Part 1: Directions on Using GitHub
 
 Step 1: Install the required software and set up your accounts
 1. First, install Git (https://git-scm.com/)
@@ -41,7 +41,7 @@ Step 7: Enabling GitHub Pages
 2. Set the source to the master branch.
 3. Once GitHub generates the link, your site will be live and ready to visit.
 
-# Part 2: Glossary
+## Part 2: Glossary
 
 **Branch:** A lightweight pointer to a commit that represents a separate development track in a repository.
 
