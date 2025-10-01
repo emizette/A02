@@ -43,26 +43,26 @@ Step 7: Enabling GitHub Pages
 
 # Part 2: Glossary
 
-Branch: A lightweight pointer to a commit that represents a separate development track in a repository.
+**Branch:** A lightweight pointer to a commit that represents a separate development track in a repository.
 
-Clone: Making a local copy of a repository that exists remotely.
+**Clone:** Making a local copy of a repository that exists remotely.
 
-Commit: A saved snapshot of the repository at a given time, identified with a unique ID and message.
+**Commit:** A saved snapshot of the repository at a given time, identified with a unique ID and message.
 
-Fetch: Downloading commits from a remote repository into your local one without merging them.
+**Fetch:** Downloading commits from a remote repository into your local one without merging them.
 
-GIT: An open-source version control system designed for fast and efficient project management.
+**GIT:** An open-source version control system designed for fast and efficient project management.
 
-GitHub: A web-based platform for version control and collaboration that integrates with Git.
+**GitHub:** A web-based platform for version control and collaboration that integrates with Git.
 
-Merge: The action of combining one line of development into another.
+**Merge:** The action of combining one line of development into another.
 
-Merge Conflict: An issue that occurs when Git cannot automatically reconcile changes made to the same line of code.
+**Merge Conflict:** An issue that occurs when Git cannot automatically reconcile changes made to the same line of code.
 
-Push: Uploading your local commits to a remote repository.
+**Push:** Uploading your local commits to a remote repository.
 
-Pull: Retrieving updates from a remote repository and merging them into your current branch.
+**Pull:** Retrieving updates from a remote repository and merging them into your current branch.
 
-Remote: A version of your repository stored on GitHub that you can access from anywhere.
+**Remote:** A version of your repository stored on GitHub that you can access from anywhere.
 
-Repository: The central storage space that contains all project files and their version history.
+**Repository:** The central storage space that contains all project files and their version history.
